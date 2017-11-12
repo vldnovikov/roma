@@ -1,0 +1,15 @@
+header {
+    background: #fff;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;    
+    padding: 20px 0 ;
+    .header-contacts {
+        display: flex; 
+        flex-direction: column;
+    }
+}

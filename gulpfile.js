@@ -176,6 +176,13 @@ gulp.task('copy', function() {
     .pipe(gulp.dest(bases.dist))
     .pipe(reload({stream:true}));
 
+  // copy meta files to dist directly
+    gulp.src(bases.app + 'images/**/*.*')
+        .pipe(size({ gzip: true, showFiles: true }))
+        .pipe(gulp.dest(bases.dist))
+        .pipe(gulp.dest(bases.dist + 'images/'))
+        .pipe(reload({stream:true}));
+
 });
 
 gulp.task('sass-lint', function() {
