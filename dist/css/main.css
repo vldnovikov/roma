@@ -457,6 +457,7 @@ a:not([href]):not([tabindex]):hover {
     font-weight: 600;
     margin-bottom: 10px;
 }
+
 .item-boxes p {
     font-size: 16px;
 }
@@ -919,8 +920,11 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .counters-tittle-h2 {
-    color: #4676fa;
     text-align: center;
+}
+
+.counters-tittle-h2 span {
+    color: #4676fa;
 }
 
 .counters .lines {
@@ -1676,23 +1680,24 @@ footer {
     display: block;
 }
 
-.wr-door-tittle h4{
+.wr-door-tittle h4 {
     margin: 10px 0;
 }
-.wr-door-tittle p{
+
+.wr-door-tittle p {
     margin: 0;
     font-size: 16px;
     letter-spacing: 0;
 }
 
-.wr-door-tittle p span{
+.wr-door-tittle p span {
     color: #4676fa;
 
 }
 
 #form-order-new {
     padding: 100px 0;
-    background-image: url("../img/main_banner4.jpg");
+    background-image: url("../img/Depositphotos_20229729_original-min (1).jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

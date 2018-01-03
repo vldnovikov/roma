@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://salonlider.com.ua/</title>
+  <link>https://salonlider.com.ua/</link>
+
+<item>
+     <link>https://salonlider.com.ua/</link>
+     <title>Салон Лідер</title>
+     <description>В салоні Лідер ви знайдете великий асортимент міжкімнатних та броньованих дверей за доступною ціною від виробника. Всі двері тільки високої якості з гарантією 1 рік!
+Послуги: замір, виготовлення, доставка, монтаж., гарантія
+Адреса: м. Хмельницький, вул. Грушевського 39</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://salonlider.com.ua/index.html</link>
+     <title>Салон Лідер</title>
+     <description>В салоні Лідер ви знайдете великий асортимент міжкімнатних та броньованих дверей за доступною ціною від виробника. Всі двері тільки високої якості з гарантією 1 рік!
+Послуги: замір, виготовлення, доставка, монтаж., гарантія
+Адреса: м. Хмельницький, вул. Грушевського 39</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
