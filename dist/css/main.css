@@ -289,7 +289,7 @@ footer{background:#333;padding:60px 0px 30px;text-align:center;}
 #xxx button:hover{background:#4676fa;color:#fff;}
 #stuff{padding-top:50px;padding-bottom:140px;}
 #stuff .wr-wtuff{display:flex;flex-wrap:wrap;justify-content:space-around;align-items:center;}
-#stuff .wr-wtuff .stuff-itrm{margin:10px 20px;max-width:200px;max-height:200px;width:100%;}
+#stuff .wr-wtuff .stuff-itrm{margin:10px 20px;}
 #stuff .wr-wtuff .stuff-itrm img{width:100%;}
 #stuff h2{text-align:center;font-size:42px;margin-top:0;text-transform:uppercase;font-weight:100;}
 #stuff h2 span{color:#4676fa;}
@@ -299,3 +299,6 @@ footer{background:#333;padding:60px 0px 30px;text-align:center;}
 #testimonial h2 span{color:#4676fa;}
 #testimonial .lines{margin:auto;width:70px;position:relative;border-top:2px solid #346afe;margin-top:15px;margin-bottom:25px;}
 #testimonial .lines:before{position:absolute;content:"";display:inline-block;height:10px;width:10px;top:-10px;border:4px solid #fff;border-radius:50%;background:#4676fa;left:27px;}
+.brama-logo {display: block; width: 350px; height: 100%}
+.viknarof{width: 300px;}
+.terminuslogo{width: 300px;}
