@@ -302,3 +302,6 @@ footer{background:#333;padding:60px 0px 30px;text-align:center;}
 .brama-logo {display: block; width: 350px; height: 100%}
 .viknarof{width: 300px;}
 .terminuslogo{width: 300px;}
+.doors-block { position: relative}
+.doors-block div.owl-prev { position: absolute!important; top: -400px!important; left: 0!important;}
+.doors-block div.owl-next { position: absolute!important; top: -400px!important; right: 0!important;}
